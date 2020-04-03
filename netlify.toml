@@ -8,6 +8,3 @@
   to = "/hello-world"
   conditions = {Language = ["fr"], Country = ["FR"]}
 
-[[redirects]]
-  from = "/no-where/*"
-  to = "/another-new-post/"
