@@ -12,4 +12,4 @@
   status = 301
   force = false
   query = {path = ":path"}
-  conditions = {Language = ["en"]}
+  conditions = {Language = ["fr"]}
