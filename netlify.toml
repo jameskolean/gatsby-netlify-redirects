@@ -1,22 +1,13 @@
 [[redirects]]
-  from = "/no-where"
+  from = "/no-where/*"
   to = "/welcome-to-the-blog"
-  status = 301
-  force = false
-  query = {path = ":path"}
   conditions = {Language = ["en"]}
 
 [[redirects]]
-  from = "/no-where"
+  from = "/no-where/*"
   to = "/hello-world"
-  status = 301
-  force = false
-  query = {path = ":path"}
   conditions = {Language = ["fr"]}
 
 [[redirects]]
-  from = "/no-where"
+  from = "/no-where/*"
   to = "/another-new-post/"
-  status = 301
-  force = false
-  query = {path = ":path"}
