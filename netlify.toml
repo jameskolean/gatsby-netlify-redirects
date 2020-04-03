@@ -1,12 +1,12 @@
 [[redirects]]
   from = "/no-where/*"
   to = "/welcome-to-the-blog"
-  conditions = {Language = ["en"]}
+  conditions = {Language = ["en"], Country = ["US"]}
 
 [[redirects]]
   from = "/no-where/*"
   to = "/hello-world"
-  conditions = {Language = ["fr"]}
+  conditions = {Language = ["fr"], Country = ["FR"]}
 
 [[redirects]]
   from = "/no-where/*"
