@@ -13,3 +13,10 @@
   force = false
   query = {path = ":path"}
   conditions = {Language = ["fr"]}
+
+[[redirects]]
+  from = "/no-where"
+  to = "/another-new-post/"
+  status = 301
+  force = false
+  query = {path = ":path"}
